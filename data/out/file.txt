@@ -1,0 +1,7 @@
+         REPORT        
+-----------------------
+The number of customer is: 2
+The number of Salesman is: 3
+The biggest sale is: 105.6
+The looser is: Paulo
+-----------------------
